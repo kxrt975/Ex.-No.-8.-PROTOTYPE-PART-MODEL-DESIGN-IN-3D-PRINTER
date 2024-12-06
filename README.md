@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2024-12-06 094118](https://github.com/user-attachments/assets/f9a78c6b-409e-4f94-aed5-5d92312e7ef7)
+
+
+### Name:R.karthik padmanaban
+### Register Number:24001743
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
